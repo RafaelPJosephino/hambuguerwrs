@@ -4,11 +4,12 @@
 }
 
 table {
+    border-radius: 10px;
     font-family: arial, sans-serif;
     font-size: 25px;
     border-collapse: collapse;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #ccc;
 }
 
 a{

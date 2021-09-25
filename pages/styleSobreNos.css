@@ -37,47 +37,23 @@ a{
     margin-left: 60px;
     margin-right:60px ;
 } 
-
-
-
-td h2{
-    color: #FCBA03;
-    text-align: center;
-
-}
-td p{
-    color: #ffffff;
-    text-align: justify;
-}
-
-tr td{
-  border-bottom:solid 1px #333 ;
-  padding: 20px;
-}
-
-.imgcenter{
-    text-align: center;
-}
-.fundotexto{
-background-color: #222;
-padding: 20px;
-margin: 20px 0px 20px 0;
-border-radius: 15px;
-
-} 
-
-img{
-
-    border-radius: 10px;
-}
-table{
-    background-color: #ccc;
-    width:1500px;
-    margin:auto ;
-    border-radius: 10px;
+section article img{
     
+    height: 420px;  
+    margin: 1.5rem; 
+    border-radius: 15px;
+
 }
 
+section article div{
+    padding:25px;
+}
+section article div h2{
+    color: #fcba03;
+}
+section article div p{
+    color: #fff;
+}
 
 
 #footer {
